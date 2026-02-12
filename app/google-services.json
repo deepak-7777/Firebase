@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617137444892",
+    "project_id": "deepak-df9c1",
+    "storage_bucket": "deepak-df9c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617137444892:android:179f714b31252b136627d9",
+        "android_client_info": {
+          "package_name": "com.example.firebase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC20ciwunVuzprN4cWCAeuJrrtT6JAgy3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -10,7 +10,7 @@ Firebase Project Setup Connecting Android App with Firebase Google Sign-In Authe
 
 📊 Firebase Realtime Database Operations Add Data Update Data Delete Data Retrieve Data
 
-🖼️ Firebase Storage Image Upload Store Image URL in Database Display Images in App
+🖼️ Firebase Storage Image Upload Store Image URL in Database Display Images in App 
 
 📦 Firebase Services Practiced
 

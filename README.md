@@ -8,7 +8,7 @@ This repository contains my practice work created while learning Firebase integr
 
 Firebase Project Setup Connecting Android App with Firebase Google Sign-In Authentication User Session Management
 
-📊 Firebase Realtime Database Operations Add Data Update Data Delete Data Retrieve Data
+📊 Firebase Realtime Database Operations Add Data Update Data Delete Data Retrieve Data 
 
 🖼️ Firebase Storage Image Upload Store Image URL in Database Display Images in App 
 
